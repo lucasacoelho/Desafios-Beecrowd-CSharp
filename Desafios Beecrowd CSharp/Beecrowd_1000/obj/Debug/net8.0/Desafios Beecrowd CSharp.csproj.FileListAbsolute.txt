@@ -1,0 +1,14 @@
+C:\Users\W1021H2\RiderProjects\Desafios Beecrowd CSharp\Desafios Beecrowd CSharp\bin\Debug\net8.0\Desafios Beecrowd CSharp.exe
+C:\Users\W1021H2\RiderProjects\Desafios Beecrowd CSharp\Desafios Beecrowd CSharp\bin\Debug\net8.0\Desafios Beecrowd CSharp.deps.json
+C:\Users\W1021H2\RiderProjects\Desafios Beecrowd CSharp\Desafios Beecrowd CSharp\bin\Debug\net8.0\Desafios Beecrowd CSharp.runtimeconfig.json
+C:\Users\W1021H2\RiderProjects\Desafios Beecrowd CSharp\Desafios Beecrowd CSharp\bin\Debug\net8.0\Desafios Beecrowd CSharp.dll
+C:\Users\W1021H2\RiderProjects\Desafios Beecrowd CSharp\Desafios Beecrowd CSharp\bin\Debug\net8.0\Desafios Beecrowd CSharp.pdb
+C:\Users\W1021H2\RiderProjects\Desafios Beecrowd CSharp\Desafios Beecrowd CSharp\obj\Debug\net8.0\Desafios Beecrowd CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W1021H2\RiderProjects\Desafios Beecrowd CSharp\Desafios Beecrowd CSharp\obj\Debug\net8.0\Desafios Beecrowd CSharp.AssemblyInfoInputs.cache
+C:\Users\W1021H2\RiderProjects\Desafios Beecrowd CSharp\Desafios Beecrowd CSharp\obj\Debug\net8.0\Desafios Beecrowd CSharp.AssemblyInfo.cs
+C:\Users\W1021H2\RiderProjects\Desafios Beecrowd CSharp\Desafios Beecrowd CSharp\obj\Debug\net8.0\Desafios Beecrowd CSharp.csproj.CoreCompileInputs.cache
+C:\Users\W1021H2\RiderProjects\Desafios Beecrowd CSharp\Desafios Beecrowd CSharp\obj\Debug\net8.0\Desafios Beecrowd CSharp.dll
+C:\Users\W1021H2\RiderProjects\Desafios Beecrowd CSharp\Desafios Beecrowd CSharp\obj\Debug\net8.0\refint\Desafios Beecrowd CSharp.dll
+C:\Users\W1021H2\RiderProjects\Desafios Beecrowd CSharp\Desafios Beecrowd CSharp\obj\Debug\net8.0\Desafios Beecrowd CSharp.pdb
+C:\Users\W1021H2\RiderProjects\Desafios Beecrowd CSharp\Desafios Beecrowd CSharp\obj\Debug\net8.0\Desafios Beecrowd CSharp.genruntimeconfig.cache
+C:\Users\W1021H2\RiderProjects\Desafios Beecrowd CSharp\Desafios Beecrowd CSharp\obj\Debug\net8.0\ref\Desafios Beecrowd CSharp.dll
