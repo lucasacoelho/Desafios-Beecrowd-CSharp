@@ -1,6 +1,6 @@
 ﻿namespace Desafios_Beecrowd_CSharp;
 
-static class Beecrowd_100
+static class Beecrowd_1004
 {
     private static void Main(string[] args)
     {

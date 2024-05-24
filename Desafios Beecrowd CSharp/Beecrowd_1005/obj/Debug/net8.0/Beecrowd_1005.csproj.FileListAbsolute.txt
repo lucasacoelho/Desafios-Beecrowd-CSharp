@@ -1,0 +1,15 @@
+C:\Users\W1021H2\RiderProjects\Desafios-Beecrowd-CSharp\Desafios Beecrowd CSharp\Beecrowd_1005\bin\Debug\net8.0\Beecrowd_1005.exe
+C:\Users\W1021H2\RiderProjects\Desafios-Beecrowd-CSharp\Desafios Beecrowd CSharp\Beecrowd_1005\bin\Debug\net8.0\Beecrowd_1005.deps.json
+C:\Users\W1021H2\RiderProjects\Desafios-Beecrowd-CSharp\Desafios Beecrowd CSharp\Beecrowd_1005\bin\Debug\net8.0\Beecrowd_1005.runtimeconfig.json
+C:\Users\W1021H2\RiderProjects\Desafios-Beecrowd-CSharp\Desafios Beecrowd CSharp\Beecrowd_1005\bin\Debug\net8.0\Beecrowd_1005.dll
+C:\Users\W1021H2\RiderProjects\Desafios-Beecrowd-CSharp\Desafios Beecrowd CSharp\Beecrowd_1005\bin\Debug\net8.0\Beecrowd_1005.pdb
+C:\Users\W1021H2\RiderProjects\Desafios-Beecrowd-CSharp\Desafios Beecrowd CSharp\Beecrowd_1005\obj\Debug\net8.0\Beecrowd_1005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W1021H2\RiderProjects\Desafios-Beecrowd-CSharp\Desafios Beecrowd CSharp\Beecrowd_1005\obj\Debug\net8.0\Beecrowd_1005.AssemblyInfoInputs.cache
+C:\Users\W1021H2\RiderProjects\Desafios-Beecrowd-CSharp\Desafios Beecrowd CSharp\Beecrowd_1005\obj\Debug\net8.0\Beecrowd_1005.AssemblyInfo.cs
+C:\Users\W1021H2\RiderProjects\Desafios-Beecrowd-CSharp\Desafios Beecrowd CSharp\Beecrowd_1005\obj\Debug\net8.0\Beecrowd_1005.csproj.CoreCompileInputs.cache
+C:\Users\W1021H2\RiderProjects\Desafios-Beecrowd-CSharp\Desafios Beecrowd CSharp\Beecrowd_1005\obj\Debug\net8.0\Beecrowd_1005.sourcelink.json
+C:\Users\W1021H2\RiderProjects\Desafios-Beecrowd-CSharp\Desafios Beecrowd CSharp\Beecrowd_1005\obj\Debug\net8.0\Beecrowd_1005.dll
+C:\Users\W1021H2\RiderProjects\Desafios-Beecrowd-CSharp\Desafios Beecrowd CSharp\Beecrowd_1005\obj\Debug\net8.0\refint\Beecrowd_1005.dll
+C:\Users\W1021H2\RiderProjects\Desafios-Beecrowd-CSharp\Desafios Beecrowd CSharp\Beecrowd_1005\obj\Debug\net8.0\Beecrowd_1005.pdb
+C:\Users\W1021H2\RiderProjects\Desafios-Beecrowd-CSharp\Desafios Beecrowd CSharp\Beecrowd_1005\obj\Debug\net8.0\Beecrowd_1005.genruntimeconfig.cache
+C:\Users\W1021H2\RiderProjects\Desafios-Beecrowd-CSharp\Desafios Beecrowd CSharp\Beecrowd_1005\obj\Debug\net8.0\ref\Beecrowd_1005.dll
