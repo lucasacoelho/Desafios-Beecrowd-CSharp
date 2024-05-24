@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\W1021H2\\RiderProjects\\Desafios Beecrowd CSharp\\Beecrowd_1001\\Beecrowd_1001.csproj",
+      "projectUniqueName": "C:\\Users\\W1021H2\\RiderProjects\\Desafios-Beecrowd-CSharp\\Desafios Beecrowd CSharp\\Beecrowd_1001\\Beecrowd_1001.csproj",
       "projectName": "Beecrowd_1001",
-      "projectPath": "C:\\Users\\W1021H2\\RiderProjects\\Desafios Beecrowd CSharp\\Beecrowd_1001\\Beecrowd_1001.csproj",
+      "projectPath": "C:\\Users\\W1021H2\\RiderProjects\\Desafios-Beecrowd-CSharp\\Desafios Beecrowd CSharp\\Beecrowd_1001\\Beecrowd_1001.csproj",
       "packagesPath": "C:\\Users\\W1021H2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\W1021H2\\RiderProjects\\Desafios Beecrowd CSharp\\Beecrowd_1001\\obj\\",
+      "outputPath": "C:\\Users\\W1021H2\\RiderProjects\\Desafios-Beecrowd-CSharp\\Desafios Beecrowd CSharp\\Beecrowd_1001\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\W1021H2\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\W1021H2\\RiderProjects\\Desafios Beecrowd CSharp\\Beecrowd_1000\\Beecrowd_1000.csproj": {}
+    "C:\\Users\\W1021H2\\RiderProjects\\Desafios-Beecrowd-CSharp\\Desafios Beecrowd CSharp\\Beecrowd_1000\\Beecrowd_1000.csproj": {}
   },
   "projects": {
-    "C:\\Users\\W1021H2\\RiderProjects\\Desafios Beecrowd CSharp\\Beecrowd_1000\\Beecrowd_1000.csproj": {
+    "C:\\Users\\W1021H2\\RiderProjects\\Desafios-Beecrowd-CSharp\\Desafios Beecrowd CSharp\\Beecrowd_1000\\Beecrowd_1000.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\W1021H2\\RiderProjects\\Desafios Beecrowd CSharp\\Beecrowd_1000\\Beecrowd_1000.csproj",
+        "projectUniqueName": "C:\\Users\\W1021H2\\RiderProjects\\Desafios-Beecrowd-CSharp\\Desafios Beecrowd CSharp\\Beecrowd_1000\\Beecrowd_1000.csproj",
         "projectName": "Beecrowd_1000",
-        "projectPath": "C:\\Users\\W1021H2\\RiderProjects\\Desafios Beecrowd CSharp\\Beecrowd_1000\\Beecrowd_1000.csproj",
+        "projectPath": "C:\\Users\\W1021H2\\RiderProjects\\Desafios-Beecrowd-CSharp\\Desafios Beecrowd CSharp\\Beecrowd_1000\\Beecrowd_1000.csproj",
         "packagesPath": "C:\\Users\\W1021H2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\W1021H2\\RiderProjects\\Desafios Beecrowd CSharp\\Beecrowd_1000\\obj\\",
+        "outputPath": "C:\\Users\\W1021H2\\RiderProjects\\Desafios-Beecrowd-CSharp\\Desafios Beecrowd CSharp\\Beecrowd_1000\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\W1021H2\\AppData\\Roaming\\NuGet\\NuGet.Config"
