@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\RiderProjects\\Desafios-Beecrowd-CSharp\\Desafios Beecrowd CSharp\\Beecrowd_1003\\Beecrowd_1003.csproj": {}
+    "C:\\Users\\W1021H2\\RiderProjects\\Desafios-Beecrowd-CSharp\\Desafios Beecrowd CSharp\\Beecrowd_1003\\Beecrowd_1003.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\RiderProjects\\Desafios-Beecrowd-CSharp\\Desafios Beecrowd CSharp\\Beecrowd_1003\\Beecrowd_1003.csproj": {
+    "C:\\Users\\W1021H2\\RiderProjects\\Desafios-Beecrowd-CSharp\\Desafios Beecrowd CSharp\\Beecrowd_1003\\Beecrowd_1003.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\RiderProjects\\Desafios-Beecrowd-CSharp\\Desafios Beecrowd CSharp\\Beecrowd_1003\\Beecrowd_1003.csproj",
+        "projectUniqueName": "C:\\Users\\W1021H2\\RiderProjects\\Desafios-Beecrowd-CSharp\\Desafios Beecrowd CSharp\\Beecrowd_1003\\Beecrowd_1003.csproj",
         "projectName": "Beecrowd_1003",
-        "projectPath": "C:\\Users\\lucas\\RiderProjects\\Desafios-Beecrowd-CSharp\\Desafios Beecrowd CSharp\\Beecrowd_1003\\Beecrowd_1003.csproj",
-        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\RiderProjects\\Desafios-Beecrowd-CSharp\\Desafios Beecrowd CSharp\\Beecrowd_1003\\obj\\",
+        "projectPath": "C:\\Users\\W1021H2\\RiderProjects\\Desafios-Beecrowd-CSharp\\Desafios Beecrowd CSharp\\Beecrowd_1003\\Beecrowd_1003.csproj",
+        "packagesPath": "C:\\Users\\W1021H2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\W1021H2\\RiderProjects\\Desafios-Beecrowd-CSharp\\Desafios Beecrowd CSharp\\Beecrowd_1003\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\W1021H2\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\lucas\\.dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\W1021H2\\.dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
